@@ -1,0 +1,8 @@
+C:\MyProjects\DotNetBerlinClock-master\obj\Debug\BerlinClock.csprojResolveAssemblyReference.cache
+C:\MyProjects\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll.config
+C:\MyProjects\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+C:\MyProjects\DotNetBerlinClock-master\bin\Debug\BerlinClock.pdb
+C:\MyProjects\DotNetBerlinClock-master\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\MyProjects\DotNetBerlinClock-master\bin\Debug\TechTalk.SpecFlow.dll
+C:\MyProjects\DotNetBerlinClock-master\obj\Debug\BerlinClock.dll
+C:\MyProjects\DotNetBerlinClock-master\obj\Debug\BerlinClock.pdb
